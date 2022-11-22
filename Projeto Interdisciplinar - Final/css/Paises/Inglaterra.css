@@ -482,6 +482,7 @@ header.sticky {
 }
 
 @media (max-width: 768px) {
+
   .container-galeria {
     grid-template-columns: repeat(1, 1fr);
     grid-auto-rows: 50vh;

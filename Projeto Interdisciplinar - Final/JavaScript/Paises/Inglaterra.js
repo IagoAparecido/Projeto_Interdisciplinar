@@ -134,7 +134,7 @@ clickMapa3.onclick = () => {
   }
 };
 
-//Slide 768
+//Slide
 let slideIndex = 1;
 showSlides(slideIndex);
 
